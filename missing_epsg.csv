@@ -1,0 +1,369 @@
+CRS_CODE,COORD_REF_SYS_NAME,COORD_OP_METHOD_NAME
+2218,Scoresbysund 1952 / Greenland zone 5 east,Lambert Conic Conformal (West Orientated)
+2221,Scoresbysund 1952 / Greenland zone 6 east,Lambert Conic Conformal (West Orientated)
+2296,Ammassalik 1958 / Greenland zone 7 east,Lambert Conic Conformal (West Orientated)
+2297,Qornoq 1927 / Greenland zone 1 east,Lambert Conic Conformal (West Orientated)
+2298,Qornoq 1927 / Greenland zone 2 east,Lambert Conic Conformal (West Orientated)
+2299,Qornoq 1927 / Greenland zone 2 west,Lambert Conic Conformal (West Orientated)
+2300,Qornoq 1927 / Greenland zone 3 east,Lambert Conic Conformal (West Orientated)
+2301,Qornoq 1927 / Greenland zone 3 west,Lambert Conic Conformal (West Orientated)
+2302,Qornoq 1927 / Greenland zone 4 east,Lambert Conic Conformal (West Orientated)
+2303,Qornoq 1927 / Greenland zone 4 west,Lambert Conic Conformal (West Orientated)
+2304,Qornoq 1927 / Greenland zone 5 west,Lambert Conic Conformal (West Orientated)
+2305,Qornoq 1927 / Greenland zone 6 west,Lambert Conic Conformal (West Orientated)
+2306,Qornoq 1927 / Greenland zone 7 west,Lambert Conic Conformal (West Orientated)
+2307,Qornoq 1927 / Greenland zone 8 east,Lambert Conic Conformal (West Orientated)
+2963,Lisbon 1890 (Lisbon) / Portugal Bonne,Bonne (South Orientated)
+2985,Petrels 1972 / Terre Adelie Polar Stereographic,Polar Stereographic (variant C)
+2986,Perroud 1950 / Terre Adelie Polar Stereographic,Polar Stereographic (variant C)
+3052,Reykjavik 1900 / Lambert 1900,Lambert Conic Conformal (West Orientated)
+3053,Hjorsey 1955 / Lambert 1955,Lambert Conic Conformal (West Orientated)
+3139,Vanua Levu 1915 / Vanua Levu Grid,Hyperbolic Cassini-Soldner
+3144,FD54 / Faroe Lambert,Lambert Conic Conformal (West Orientated)
+3145,ETRS89 / Faroe Lambert,Lambert Conic Conformal (West Orientated)
+3173,fk89 / Faroe Lambert FK89,Lambert Conic Conformal (West Orientated)
+3295,Guam 1963 / Yap Islands,Modified Azimuthal Equidistant
+3823,TWD97,Geographic/geocentric conversions
+3888,IGRS,Geographic/geocentric conversions
+3993,Guam 1963 / Guam SPCS,Guam Projection
+4017,MOLDREF99,Geographic/geocentric conversions
+4040,RGRDC 2005,Geographic/geocentric conversions
+4074,SREF98,Geographic/geocentric conversions
+4080,REGCAN95,Geographic/geocentric conversions
+4466,RGSPM06,Geographic/geocentric conversions
+4469,RGM04,Geographic/geocentric conversions
+4472,Cadastre 1997,Geographic/geocentric conversions
+4480,China Geodetic Coordinate System 2000,Geographic/geocentric conversions
+4482,Mexico ITRF92,Geographic/geocentric conversions
+4557,RRAF 1991,Geographic/geocentric conversions
+4883,Slovenia 1996,Geographic/geocentric conversions
+4885,RSRGD2000,Geographic/geocentric conversions
+4887,BDA2000,Geographic/geocentric conversions
+4889,HTRS96,Geographic/geocentric conversions
+4891,WGS 66,Geographic/geocentric conversions
+4893,NAD83(NSRS2007),Geographic/geocentric conversions
+4895,JAD2001,Geographic/geocentric conversions
+4898,DGN95,Geographic/geocentric conversions
+4900,LGD2006,Geographic/geocentric conversions
+4907,RGNC91-93,Geographic/geocentric conversions
+4909,GR96,Geographic/geocentric conversions
+4921,GDM2000,Geographic/geocentric conversions
+4923,PZ-90,Geographic/geocentric conversions
+4925,Mauritania 1999,Geographic/geocentric conversions
+4927,Korea 2000,Geographic/geocentric conversions
+4929,POSGAR 94,Geographic/geocentric conversions
+4931,Australian Antarctic,Geographic/geocentric conversions
+4933,CHTRF95,Geographic/geocentric conversions
+4935,EST97,Geographic/geocentric conversions
+4937,ETRS89,Geographic/geocentric conversions
+4939,GDA94,Geographic/geocentric conversions
+4941,Hartebeesthoek94,Geographic/geocentric conversions
+4943,IRENET95,Geographic/geocentric conversions
+4945,ISN93,Geographic/geocentric conversions
+4947,JGD2000,Geographic/geocentric conversions
+4949,LKS92,Geographic/geocentric conversions
+4951,LKS94,Geographic/geocentric conversions
+4953,Moznet,Geographic/geocentric conversions
+4955,NAD83(CSRS),Geographic/geocentric conversions
+4957,NAD83(HARN),Geographic/geocentric conversions
+4959,NZGD2000,Geographic/geocentric conversions
+4961,POSGAR 98,Geographic/geocentric conversions
+4963,REGVEN,Geographic/geocentric conversions
+4965,RGF93,Geographic/geocentric conversions
+4967,RGFG95,Geographic/geocentric conversions
+4969,RGNC 1991,Geographic/geocentric conversions
+4971,RGR92,Geographic/geocentric conversions
+4973,RRAF 1991,Geographic/geocentric conversions
+4975,SIRGAS 1995,Geographic/geocentric conversions
+4977,SWEREF99,Geographic/geocentric conversions
+4981,Yemen NGN96,Geographic/geocentric conversions
+4983,IGM95,Geographic/geocentric conversions
+4985,WGS 72,Geographic/geocentric conversions
+4987,WGS 72BE,Geographic/geocentric conversions
+4989,SIRGAS 2000,Geographic/geocentric conversions
+4991,Lao 1993,Geographic/geocentric conversions
+4993,Lao 1997,Geographic/geocentric conversions
+4995,PRS92,Geographic/geocentric conversions
+4997,MAGNA-SIRGAS,Geographic/geocentric conversions
+4999,RGPF,Geographic/geocentric conversions
+5012,PTRA08,Geographic/geocentric conversions
+5017,Lisbon 1890 / Portugal Bonne New,Bonne (South Orientated)
+5224,S-JTSK/05 (Ferro) / Modified Krovak,Krovak Modified
+5225,S-JTSK/05 (Ferro) / Modified Krovak East North,Krovak Modified (North Orientated)
+5245,GDBD2009,Geographic/geocentric conversions
+5251,TUREF,Geographic/geocentric conversions
+5263,DRUKREF 03,Geographic/geocentric conversions
+5323,ISN2004,Geographic/geocentric conversions
+5342,POSGAR 2007,Geographic/geocentric conversions
+5353,MARGEN,Geographic/geocentric conversions
+5359,SIRGAS-Chile,Geographic/geocentric conversions
+5364,CR05,Geographic/geocentric conversions
+5370,MACARIO SOLIS,Geographic/geocentric conversions
+5372,Peru96,Geographic/geocentric conversions
+5380,SIRGAS-ROU98,Geographic/geocentric conversions
+5392,SIRGAS_ES2007.8,Geographic/geocentric conversions
+5488,RGAF09,Geographic/geocentric conversions
+5515,S-JTSK/05 / Modified Krovak,Krovak Modified
+5516,S-JTSK/05 / Modified Krovak East North,Krovak Modified (North Orientated)
+5545,PNG94,Geographic/geocentric conversions
+5560,UCS-2000,Geographic/geocentric conversions
+5592,FEH2010,Geographic/geocentric conversions
+5819,EPSG topocentric example A,Geographic/topocentric conversions
+5820,EPSG topocentric example B,Geocentric/topocentric conversions
+5821,EPSG vertical perspective example,Vertical Perspective
+5830,DB_REF,Geographic/geocentric conversions
+5885,TGD2005,Geographic/geocentric conversions
+6134,CIGD11,Geographic/geocentric conversions
+6200,NAD27 / Michigan North,Lambert Conic Conformal (2SP Michigan)
+6201,NAD27 / Michigan Central,Lambert Conic Conformal (2SP Michigan)
+6202,NAD27 / Michigan South,Lambert Conic Conformal (2SP Michigan)
+6244,MAGNA-SIRGAS / Arauca urban grid,Colombia Urban
+6245,MAGNA-SIRGAS / Armenia urban grid,Colombia Urban
+6246,MAGNA-SIRGAS / Barranquilla urban grid,Colombia Urban
+6247,MAGNA-SIRGAS / Bogota urban grid,Colombia Urban
+6248,MAGNA-SIRGAS / Bucaramanga urban grid,Colombia Urban
+6249,MAGNA-SIRGAS / Cali urban grid,Colombia Urban
+6250,MAGNA-SIRGAS / Cartagena urban grid,Colombia Urban
+6251,MAGNA-SIRGAS / Cucuta urban grid,Colombia Urban
+6252,MAGNA-SIRGAS / Florencia urban grid,Colombia Urban
+6253,MAGNA-SIRGAS / Ibague urban grid,Colombia Urban
+6254,MAGNA-SIRGAS / Inirida urban grid,Colombia Urban
+6255,MAGNA-SIRGAS / Leticia urban grid,Colombia Urban
+6256,MAGNA-SIRGAS / Manizales urban grid,Colombia Urban
+6257,MAGNA-SIRGAS / Medellin urban grid,Colombia Urban
+6258,MAGNA-SIRGAS / Mitu urban grid,Colombia Urban
+6259,MAGNA-SIRGAS / Mocoa urban grid,Colombia Urban
+6260,MAGNA-SIRGAS / Monteria urban grid,Colombia Urban
+6261,MAGNA-SIRGAS / Neiva urban grid,Colombia Urban
+6262,MAGNA-SIRGAS / Pasto urban grid,Colombia Urban
+6263,MAGNA-SIRGAS / Pereira urban grid,Colombia Urban
+6264,MAGNA-SIRGAS / Popayan urban grid,Colombia Urban
+6265,MAGNA-SIRGAS / Puerto Carreno urban grid,Colombia Urban
+6266,MAGNA-SIRGAS / Quibdo urban grid,Colombia Urban
+6267,MAGNA-SIRGAS / Riohacha urban grid,Colombia Urban
+6268,MAGNA-SIRGAS / San Andres urban grid,Colombia Urban
+6269,MAGNA-SIRGAS / San Jose del Guaviare urban grid,Colombia Urban
+6270,MAGNA-SIRGAS / Santa Marta urban grid,Colombia Urban
+6271,MAGNA-SIRGAS / Sucre urban grid,Colombia Urban
+6272,MAGNA-SIRGAS / Tunja urban grid,Colombia Urban
+6273,MAGNA-SIRGAS / Valledupar urban grid,Colombia Urban
+6274,MAGNA-SIRGAS / Villavicencio urban grid,Colombia Urban
+6275,MAGNA-SIRGAS / Yopal urban grid,Colombia Urban
+6310,CGRS93,Geographic/geocentric conversions
+6319,NAD83(2011),Geographic/geocentric conversions
+6321,NAD83(PA11),Geographic/geocentric conversions
+6324,NAD83(MA11),Geographic/geocentric conversions
+6364,Mexico ITRF2008,Geographic/geocentric conversions
+6667,JGD2011,Geographic/geocentric conversions
+6705,RDN2008,Geographic/geocentric conversions
+6782,NAD83(CORS96),Geographic/geocentric conversions
+6966,NAD27 / Michigan North,Lambert Conic Conformal (2SP Michigan)
+6979,IGD05,Geographic/geocentric conversions
+6982,IG05 Intermediate CRS,Geographic/geocentric conversions
+6986,IGD05/12,Geographic/geocentric conversions
+6989,IG05/12 Intermediate CRS,Geographic/geocentric conversions
+7034,RGSPM06 (lon-lat),axis order reversal (geographic3D horizontal)
+7036,RGR92 (lon-lat),axis order reversal (geographic3D horizontal)
+7038,RGM04 (lon-lat),axis order reversal (geographic3D horizontal)
+7040,RGFG95 (lon-lat),axis order reversal (geographic3D horizontal)
+7042,RGF93 (lon-lat),axis order reversal (geographic3D horizontal)
+7072,RGTAAF07,Geographic/geocentric conversions
+7082,RGTAAF07 / Terre Adelie Polar Stereographic,Polar Stereographic (variant C)
+7085,RGAF09 (lon-lat),axis order reversal (geographic3D horizontal)
+7087,RGTAAF07 (lon-lat),axis order reversal (geographic3D horizontal)
+7135,IGD05,Geographic/geocentric conversions
+7138,IGD05/12,Geographic/geocentric conversions
+7372,ONGD14,Geographic/geocentric conversions
+7657,WGS 84 (G730),Geographic/geocentric conversions
+7659,WGS 84 (G873),Geographic/geocentric conversions
+7661,WGS 84 (G1150),Geographic/geocentric conversions
+7663,WGS 84 (G1674),Geographic/geocentric conversions
+7665,WGS 84 (G1762),Geographic/geocentric conversions
+7678,PZ-90.02,Geographic/geocentric conversions
+7680,PZ-90.11,Geographic/geocentric conversions
+7682,GSK-2011,Geographic/geocentric conversions
+7685,Kyrg-06,Geographic/geocentric conversions
+7797,BGS2005,Geographic/geocentric conversions
+7816,WGS 84 (Transit),Geographic/geocentric conversions
+7843,GDA2020,Geographic/geocentric conversions
+7880,St. Helena Tritan,Geographic/geocentric conversions
+7885,SHGD2015,Geographic/geocentric conversions
+7900,ITRF88,Geographic/geocentric conversions
+7901,ITRF89,Geographic/geocentric conversions
+7902,ITRF90,Geographic/geocentric conversions
+7903,ITRF91,Geographic/geocentric conversions
+7904,ITRF92,Geographic/geocentric conversions
+7905,ITRF93,Geographic/geocentric conversions
+7906,ITRF94,Geographic/geocentric conversions
+7907,ITRF96,Geographic/geocentric conversions
+7908,ITRF97,Geographic/geocentric conversions
+7909,ITRF2000,Geographic/geocentric conversions
+7910,ITRF2005,Geographic/geocentric conversions
+7911,ITRF2008,Geographic/geocentric conversions
+7912,ITRF2014,Geographic/geocentric conversions
+7915,ETRF89,Geographic/geocentric conversions
+7917,ETRF90,Geographic/geocentric conversions
+7919,ETRF91,Geographic/geocentric conversions
+7921,ETRF92,Geographic/geocentric conversions
+7923,ETRF93,Geographic/geocentric conversions
+7925,ETRF94,Geographic/geocentric conversions
+7927,ETRF96,Geographic/geocentric conversions
+7929,ETRF97,Geographic/geocentric conversions
+7931,ETRF2000,Geographic/geocentric conversions
+7991,NAD27 / MTM zone 10,Transverse Mercator
+7992,Malongo 1987 / UTM zone 33S,Transverse Mercator
+8013,GDA2020 / ALB2020,Transverse Mercator
+8014,GDA2020 / BIO2020,Transverse Mercator
+8015,GDA2020 / BRO2020,Transverse Mercator
+8016,GDA2020 / BCG2020,Transverse Mercator
+8017,GDA2020 / CARN2020,Transverse Mercator
+8018,GDA2020 / CIG2020,Transverse Mercator
+8019,GDA2020 / CKIG2020,Transverse Mercator
+8020,GDA2020 / COL2020,Transverse Mercator
+8021,GDA2020 / ESP2020,Transverse Mercator
+8022,GDA2020 / EXM2020,Transverse Mercator
+8023,GDA2020 / GCG2020,Transverse Mercator
+8024,GDA2020 / GOLD2020,Transverse Mercator
+8025,GDA2020 / JCG2020,Transverse Mercator
+8026,GDA2020 / KALB2020,Transverse Mercator
+8027,GDA2020 / KAR2020,Transverse Mercator
+8028,GDA2020 / KUN2020,Transverse Mercator
+8029,GDA2020 / LCG2020,Transverse Mercator
+8030,GDA2020 / MRCG2020,Transverse Mercator
+8031,GDA2020 / PCG2020,Transverse Mercator
+8032,GDA2020 / PHG2020,Transverse Mercator
+8035,WGS 84 / TM Zone 20N (ftUS),Transverse Mercator
+8036,WGS 84 / TM Zone 21N (ftUS),Transverse Mercator
+8044,Gusterberg Grid (Ferro),Cassini-Soldner
+8045,St. Stephen Grid (Ferro),Cassini-Soldner
+8058,GDA2020 / NSW Lambert,Lambert Conic Conformal (2SP)
+8059,GDA2020 / SA Lambert,Lambert Conic Conformal (2SP)
+8065,NAD83(2011) / PCCS zone 1 (ft),Hotine Oblique Mercator (variant B)
+8066,NAD83(2011) / PCCS zone 2 (ft),Transverse Mercator
+8067,NAD83(2011) / PCCS zone 3 (ft),Transverse Mercator
+8068,NAD83(2011) / PCCS zone 4 (ft),Lambert Conic Conformal (1SP)
+8085,ISN2016,Geographic/geocentric conversions
+8086,ISN2016,Geographic3D to 2D conversion
+8088,ISN2016 / Lambert 2016,Lambert Conic Conformal (2SP)
+8090,NAD83(HARN) / WISCRS Florence (m),Transverse Mercator
+8091,NAD83(HARN) / WISCRS Florence (ftUS),Transverse Mercator
+8092,NAD83(HARN) / WISCRS Eau Claire (m),Lambert Conic Conformal (1SP)
+8093,NAD83(HARN) / WISCRS Eau Claire (ftUS),Lambert Conic Conformal (1SP)
+8095,NAD83(HARN) / WISCRS Wood (m),Lambert Conic Conformal (1SP)
+8096,NAD83(HARN) / WISCRS Wood (ftUS),Lambert Conic Conformal (1SP)
+8097,NAD83(HARN) / WISCRS Waushara (m),Lambert Conic Conformal (1SP)
+8098,NAD83(HARN) / WISCRS Waushara (ftUS),Lambert Conic Conformal (1SP)
+8099,NAD83(HARN) / WISCRS Waupaca (m),Transverse Mercator
+8100,NAD83(HARN) / WISCRS Waupaca (ftUS),Transverse Mercator
+8101,NAD83(HARN) / WISCRS Waukesha (m),Transverse Mercator
+8102,NAD83(HARN) / WISCRS Waukesha (ftUS),Transverse Mercator
+8103,NAD83(HARN) / WISCRS Washington (m),Transverse Mercator
+8104,NAD83(HARN) / WISCRS Washington (ftUS),Transverse Mercator
+8105,NAD83(HARN) / WISCRS Washburn (m),Lambert Conic Conformal (1SP)
+8106,NAD83(HARN) / WISCRS Washburn (ftUS),Lambert Conic Conformal (1SP)
+8107,NAD83(HARN) / WISCRS Walworth (m),Lambert Conic Conformal (1SP)
+8108,NAD83(HARN) / WISCRS Walworth (ftUS),Lambert Conic Conformal (1SP)
+8109,NAD83(HARN) / WISCRS Vilas (m),Lambert Conic Conformal (1SP)
+8110,NAD83(HARN) / WISCRS Vilas (ftUS),Lambert Conic Conformal (1SP)
+8111,NAD83(HARN) / WISCRS Vernon (m),Lambert Conic Conformal (1SP)
+8112,NAD83(HARN) / WISCRS Vernon (ftUS),Lambert Conic Conformal (1SP)
+8113,NAD83(HARN) / WISCRS Trempealeau (m),Transverse Mercator
+8114,NAD83(HARN) / WISCRS Trempealeau (ftUS),Transverse Mercator
+8115,NAD83(HARN) / WISCRS Taylor (m),Lambert Conic Conformal (1SP)
+8116,NAD83(HARN) / WISCRS Taylor (ftUS),Lambert Conic Conformal (1SP)
+8117,NAD83(HARN) / WISCRS St. Croix (m),Transverse Mercator
+8118,NAD83(HARN) / WISCRS St. Croix (ftUS),Transverse Mercator
+8119,NAD83(HARN) / WISCRS Shawano (m),Transverse Mercator
+8120,NAD83(HARN) / WISCRS Shawano (ftUS),Transverse Mercator
+8121,NAD83(HARN) / WISCRS Sawyer (m),Lambert Conic Conformal (1SP)
+8122,NAD83(HARN) / WISCRS Sawyer (ftUS),Lambert Conic Conformal (1SP)
+8123,NAD83(HARN) / WISCRS Sauk (m),Transverse Mercator
+8124,NAD83(HARN) / WISCRS Sauk (ftUS),Transverse Mercator
+8125,NAD83(HARN) / WISCRS Rusk (m),Transverse Mercator
+8126,NAD83(HARN) / WISCRS Rusk (ftUS),Transverse Mercator
+8127,NAD83(HARN) / WISCRS Rock (m),Transverse Mercator
+8128,NAD83(HARN) / WISCRS Rock (ftUS),Transverse Mercator
+8129,NAD83(HARN) / WISCRS Richland (m),Lambert Conic Conformal (1SP)
+8130,NAD83(HARN) / WISCRS Richland (ftUS),Lambert Conic Conformal (1SP)
+8131,NAD83(HARN) / WISCRS Price (m),Transverse Mercator
+8132,NAD83(HARN) / WISCRS Price (ftUS),Transverse Mercator
+8133,NAD83(HARN) / WISCRS Portage (m),Lambert Conic Conformal (1SP)
+8134,NAD83(HARN) / WISCRS Portage (ftUS),Lambert Conic Conformal (1SP)
+8135,NAD83(HARN) / WISCRS Polk (m),Transverse Mercator
+8136,NAD83(HARN) / WISCRS Polk (ftUS),Transverse Mercator
+8137,NAD83(HARN) / WISCRS Pepin and Pierce (m),Lambert Conic Conformal (1SP)
+8138,NAD83(HARN) / WISCRS Pepin and Pierce (ftUS),Lambert Conic Conformal (1SP)
+8139,NAD83(HARN) / WISCRS Oneida (m),Lambert Conic Conformal (1SP)
+8140,NAD83(HARN) / WISCRS Oneida (ftUS),Lambert Conic Conformal (1SP)
+8141,NAD83(HARN) / WISCRS Oconto (m),Transverse Mercator
+8142,NAD83(HARN) / WISCRS Oconto (ftUS),Transverse Mercator
+8143,NAD83(HARN) / WISCRS Monroe (m),Lambert Conic Conformal (1SP)
+8144,NAD83(HARN) / WISCRS Monroe (ftUS),Lambert Conic Conformal (1SP)
+8145,NAD83(HARN) / WISCRS Menominee (m),Transverse Mercator
+8146,NAD83(HARN) / WISCRS Menominee (ftUS),Transverse Mercator
+8147,NAD83(HARN) / WISCRS Marinette (m),Transverse Mercator
+8148,NAD83(HARN) / WISCRS Marinette (ftUS),Transverse Mercator
+8149,NAD83(HARN) / WISCRS Marathon (m),Lambert Conic Conformal (1SP)
+8150,NAD83(HARN) / WISCRS Marathon (ftUS),Lambert Conic Conformal (1SP)
+8151,NAD83(HARN) / WISCRS Lincoln (m),Transverse Mercator
+8152,NAD83(HARN) / WISCRS Lincoln (ftUS),Transverse Mercator
+8153,NAD83(HARN) / WISCRS Langlade (m),Lambert Conic Conformal (1SP)
+8154,NAD83(HARN) / WISCRS Langlade (ftUS),Lambert Conic Conformal (1SP)
+8155,NAD83(HARN) / WISCRS La Crosse (m),Transverse Mercator
+8156,NAD83(HARN) / WISCRS La Crosse (ftUS),Transverse Mercator
+8157,"NAD83(HARN) / WISCRS Kewaunee, Manitowoc and Sheboygan (m)",Transverse Mercator
+8158,"NAD83(HARN) / WISCRS Kewaunee, Manitowoc and Sheboygan (ftUS)",Transverse Mercator
+8159,"NAD83(HARN) / WISCRS Kenosha, Milwaukee, Ozaukee and Racine (m)",Transverse Mercator
+8160,"NAD83(HARN) / WISCRS Kenosha, Milwaukee, Ozaukee and Racine (ftUS)",Transverse Mercator
+8161,NAD83(HARN) / WISCRS Jackson (m),Transverse Mercator
+8162,NAD83(HARN) / WISCRS Jackson (ftUS),Transverse Mercator
+8163,NAD83(HARN) / WISCRS Iron (m),Transverse Mercator
+8164,NAD83(HARN) / WISCRS Iron (ftUS),Transverse Mercator
+8165,NAD83(HARN) / WISCRS Iowa (m),Transverse Mercator
+8166,NAD83(HARN) / WISCRS Iowa (ftUS),Transverse Mercator
+8167,NAD83(HARN) / WISCRS Green Lake and Marquette (m),Lambert Conic Conformal (1SP)
+8168,NAD83(HARN) / WISCRS Green Lake and Marquette (ftUS),Lambert Conic Conformal (1SP)
+8169,NAD83(HARN) / WISCRS Green and Lafayette (m),Lambert Conic Conformal (1SP)
+8170,NAD83(HARN) / WISCRS Green and Lafayette (ftUS),Lambert Conic Conformal (1SP)
+8171,NAD83(HARN) / WISCRS Grant (m),Transverse Mercator
+8172,NAD83(HARN) / WISCRS Grant (ftUS),Transverse Mercator
+8173,NAD83(HARN) / WISCRS Forest (m),Transverse Mercator
+8177,NAD83(HARN) / WISCRS Forest (ftUS),Transverse Mercator
+8179,NAD83(HARN) / WISCRS Dunn (m),Transverse Mercator
+8180,NAD83(HARN) / WISCRS Dunn (ftUS),Transverse Mercator
+8181,NAD83(HARN) / WISCRS Douglas (m),Transverse Mercator
+8182,NAD83(HARN) / WISCRS Douglas (ftUS),Transverse Mercator
+8184,NAD83(HARN) / WISCRS Door (m),Transverse Mercator
+8185,NAD83(HARN) / WISCRS Door (ftUS),Transverse Mercator
+8187,NAD83(HARN) / WISCRS Dodge and Jefferson (m),Transverse Mercator
+8189,NAD83(HARN) / WISCRS Dodge and Jefferson (ftUS),Transverse Mercator
+8191,NAD83(HARN) / WISCRS Dane (m),Lambert Conic Conformal (1SP)
+8193,NAD83(HARN) / WISCRS Dane (ftUS),Lambert Conic Conformal (1SP)
+8196,NAD83(HARN) / WISCRS Crawford (m),Lambert Conic Conformal (1SP)
+8197,NAD83(HARN) / WISCRS Crawford (ftUS),Lambert Conic Conformal (1SP)
+8198,NAD83(HARN) / WISCRS Columbia (m),Lambert Conic Conformal (1SP)
+8200,NAD83(HARN) / WISCRS Columbia (ftUS),Lambert Conic Conformal (1SP)
+8201,NAD83(HARN) / WISCRS Clark (m),Transverse Mercator
+8202,NAD83(HARN) / WISCRS Clark (ftUS),Transverse Mercator
+8203,NAD83(HARN) / WISCRS Chippewa (m),Lambert Conic Conformal (1SP)
+8204,NAD83(HARN) / WISCRS Chippewa (ftUS),Lambert Conic Conformal (1SP)
+8205,"NAD83(HARN) / WISCRS Calumet, Fond du Lac, Outagamie and Winnebago (m)",Transverse Mercator
+8206,"NAD83(HARN) / WISCRS Calumet, Fond du Lac, Outagamie and Winnebago (ftUS)",Transverse Mercator
+8207,NAD83(HARN) / WISCRS Burnett (m),Lambert Conic Conformal (1SP)
+8208,NAD83(HARN) / WISCRS Burnett (ftUS),Lambert Conic Conformal (1SP)
+8209,NAD83(HARN) / WISCRS Buffalo (m),Transverse Mercator
+8210,NAD83(HARN) / WISCRS Buffalo (ftUS),Transverse Mercator
+8212,NAD83(HARN) / WISCRS Brown (m),Transverse Mercator
+8213,NAD83(HARN) / WISCRS Brown (ftUS),Transverse Mercator
+8214,NAD83(HARN) / WISCRS Bayfield (m),Lambert Conic Conformal (1SP)
+8216,NAD83(HARN) / WISCRS Bayfield (ftUS),Lambert Conic Conformal (1SP)
+8218,NAD83(HARN) / WISCRS Barron (m),Transverse Mercator
+8220,NAD83(HARN) / WISCRS Barron (ftUS),Transverse Mercator
+8222,NAD83(HARN) / WISCRS Ashland (m),Transverse Mercator
+8224,NAD83(HARN) / WISCRS Ashland (ftUS),Transverse Mercator
+8225,NAD83(HARN) / WISCRS Adams and Juneau (m),Transverse Mercator
+8226,NAD83(HARN) / WISCRS Adams and Juneau (ftUS),Transverse Mercator
+22300,Carthage (Paris) / Tunisia Mining Grid,Tunisia Mining Grid
+29701,Tananarive (Paris) / Laborde Grid,Laborde Oblique Mercator
+32600,WGS 84 / UTM grid system (northern hemisphere),Transverse Mercator Zoned Grid System
+32700,WGS 84 / UTM grid system (southern hemisphere),Transverse Mercator Zoned Grid System
